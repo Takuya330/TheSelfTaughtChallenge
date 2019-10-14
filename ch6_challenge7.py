@@ -1,0 +1,1 @@
+"Hemingway".index("m")
